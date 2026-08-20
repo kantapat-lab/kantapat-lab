@@ -31,9 +31,10 @@
   </section>
 
   <section>
-    <h2>Contact (IG: kiri_sv)</h2>
+    <h2>Contact</h2>
     <p>Email: <a href="#">tanpimman@gmail.com</p>
     <p>GitHub: <a href="#">github.com/Kantapat-Tan</a></p>
+    <p>Instragram: <a href="#">kiri_sv</p>
   </section>
 
   <footer>
