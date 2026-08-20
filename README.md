@@ -1,16 +1,45 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kantapat Pimman - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-<!--
-**kantapat-lab/kantapat-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <header>
+    <h1>Hi, I'm Kantapat Pimman (Tan)</h1>
+    <p>Student / Information Technology and Intelligent Innovation, Khon Kaen University</p>
+  </header>
 
-Here are some ideas to get you started:
+  <section>
+    <h2>About Me</h2>
+    <p>
+      I'm Kantapat Pimman, nickname Tan.
+      I'm studying at the College of Computing, majoring in
+      Information Technology and Intelligent Innovation.
+    </p>
+  </section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>Python</li>
+      <li>Git / GitHub</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact (IG: kiri_sv)</h2>
+    <p>Email: tanpimman@gmail.com</p>
+    <p>GitHub: <a href="#">github.com/Kantapat-Tan</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2026 Kantapat Pimman</p>
+  </footer>
+
+</body>
+</html>
