@@ -32,7 +32,7 @@
 
   <section>
     <h2>Contact (IG: kiri_sv)</h2>
-    <p>Email: tanpimman@gmail.com</p>
+    <p>Email: <a href="#">tanpimman@gmail.com</p>
     <p>GitHub: <a href="#">github.com/Kantapat-Tan</a></p>
   </section>
 
